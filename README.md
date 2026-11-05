@@ -2,7 +2,7 @@
 
 **Full-stack software engineer** · React · TypeScript · Ruby on Rails
 
-I build product end to end, and I make large codebases safer to change. For the last five years I've worked on a solar-energy platform: React and TypeScript on the front end, Ruby on Rails APIs behind it, and a React Native app on the side.
+I build product end to end, and I make large codebases safer to change. For the last five years I've worked on a solar-energy platform: React and TypeScript on the front end, with Ruby on Rails APIs behind it.
 
 ## What I've been working on
 
@@ -17,7 +17,7 @@ Almost all of that work lives in private repositories, so here's the short versi
 
   Each one came with a CI guardrail that stops the old pattern from growing back, and a written guide for the next phase.
 - **Shipping features end to end:** AI-guided outreach, team performance dashboards, a prepaid SMS wallet, and compensation tooling, each a React front end on a Rails API.
-- **Keeping a small team fast.** As the team went from about 28 engineers to 3, I took over the release train, cut CI time from 14–23 minutes to about 12, revived automated dependency updates, and owned the mobile app.
+- **Keeping a small team fast.** As the team went from about 28 engineers to 3, I took over the release train, cut CI time from 14–23 minutes to about 12, and revived automated dependency updates.
 
 ## How I like to work
 
@@ -28,7 +28,7 @@ Almost all of that work lives in private repositories, so here's the short versi
 
 ## Tools I use most
 
-- **Front end:** React, TypeScript, Redux Toolkit and RTK Query, MUI, React Native (Expo)
+- **Front end:** React, TypeScript, Redux Toolkit and RTK Query, MUI
 - **Back end:** Ruby on Rails, PostgreSQL, REST and GraphQL APIs
 - **Testing and tooling:** Jest, React Testing Library, MSW, GitHub Actions, Renovate, Google Cloud
 
