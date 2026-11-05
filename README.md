@@ -2,7 +2,7 @@
 
 **Full-stack software engineer** · React · TypeScript · Ruby on Rails
 
-I build large product features end to end, from the Rails API to the React UI, and I make big codebases safer to change. For the last five years I've worked on a solar-energy platform: React and TypeScript on the front end, with Ruby on Rails APIs behind it.
+I build large product features end to end, from the Rails API to the React UI, and I make big codebases safer to change. For nearly five years I've worked on a solar-energy platform: React and TypeScript on the front end, with Ruby on Rails APIs behind it.
 
 ## What I've been working on
 
