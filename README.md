@@ -9,7 +9,6 @@ I build large product features end to end, from the Rails API to the React UI, a
 Almost all of that work lives in private repositories, so here's the short version.
 
 - **Large product features, end to end.** This has been most of my work, from technical design to production:
-  - a compensation system for a sales organization;
   - team analytics dashboards with a lineage tree, an activity feed, recommendations and CSV reporting;
   - an AI-guided outreach product with audience targeting, rich-text email, send caps and a prepaid SMS wallet;
   - CRM and lead-management tools: a kanban project view, a funding queue, and the lead-to-proposal flow;
@@ -22,7 +21,7 @@ Almost all of that work lives in private repositories, so here's the short versi
   - growing test coverage from under 10% to 37%.
 
   Each one came with a CI guardrail that stops the old pattern from growing back, and a written guide for the next phase.
-- **Keeping a small team fast.** As the team went from about 28 engineers to 3, I took over the release train, cut CI time from 14–23 minutes to about 12, and revived automated dependency updates.
+- **Keeping a small team fast.** As the team went from more than 20 engineers to 3, I took over the release train, cut CI time from 14–23 minutes to about 12, and revived automated dependency updates.
 
 ## How I like to work
 
