@@ -2,12 +2,18 @@
 
 **Full-stack software engineer** · React · TypeScript · Ruby on Rails
 
-I build product end to end, and I make large codebases safer to change. For the last five years I've worked on a solar-energy platform: React and TypeScript on the front end, with Ruby on Rails APIs behind it.
+I build large product features end to end, from the Rails API to the React UI, and I make big codebases safer to change. For the last five years I've worked on a solar-energy platform: React and TypeScript on the front end, with Ruby on Rails APIs behind it.
 
 ## What I've been working on
 
 Almost all of that work lives in private repositories, so here's the short version.
 
+- **Large product features, end to end.** This has been most of my work, from technical design to production:
+  - a compensation system for a sales organization;
+  - team analytics dashboards with a lineage tree, an activity feed, recommendations and CSV reporting;
+  - an AI-guided outreach product with audience targeting, rich-text email, send caps and a prepaid SMS wallet;
+  - CRM and lead-management tools: a kanban project view, a funding queue, and the lead-to-proposal flow;
+  - integrations with Customer.io, Zendesk, partner APIs and financing providers.
 - **Modernizing a 4,000-file React/TypeScript app.** I designed and led five multi-phase initiatives:
   - restoring TypeScript type checking (640 hidden errors down to zero);
   - moving from Ant Design to MUI;
@@ -16,7 +22,6 @@ Almost all of that work lives in private repositories, so here's the short versi
   - growing test coverage from under 10% to 37%.
 
   Each one came with a CI guardrail that stops the old pattern from growing back, and a written guide for the next phase.
-- **Shipping features end to end:** AI-guided outreach, team performance dashboards, a prepaid SMS wallet, and compensation tooling, each a React front end on a Rails API.
 - **Keeping a small team fast.** As the team went from about 28 engineers to 3, I took over the release train, cut CI time from 14–23 minutes to about 12, and revived automated dependency updates.
 
 ## How I like to work
